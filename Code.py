@@ -2,7 +2,6 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import pandas as pd
 
-
 # Read data from CSV into Python
 mpg_from_csv = pd.read_csv("data.csv")
 
